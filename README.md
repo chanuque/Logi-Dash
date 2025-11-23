@@ -2,6 +2,9 @@
 
 A full-stack logistics dashboard designed to visualize shipment velocity, track exceptions, and manage delivery performance in real-time.
 
+<img width="1919" height="1031" alt="Image" src="https://github.com/user-attachments/assets/cf7a83c9-ccb5-44be-ab18-502d6f4f908c" />
+
+
 🚀 Features
 
 Real-Time Analytics: Visualizes active shipments, transit times, and on-time delivery rates.
