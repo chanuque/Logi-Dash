@@ -1,11 +1,11 @@
-🚚 Logi-Dash: Supply Chain Analytics Platform
+# 🚚 Logi-Dash: Supply Chain Analytics Platform
 
 A full-stack logistics dashboard designed to visualize shipment velocity, track exceptions, and manage delivery performance in real-time.
 
 <img width="1919" height="1031" alt="Image" src="https://github.com/user-attachments/assets/cf7a83c9-ccb5-44be-ab18-502d6f4f908c" />
 
 
-🚀 Features
+# Key Features
 
 Real-Time Analytics: Visualizes active shipments, transit times, and on-time delivery rates.
 
@@ -17,7 +17,7 @@ Interactive Charts: Dynamic data visualization powered by Recharts.
 
 Export Capability: Download shipment manifests as CSV.
 
-🛠️ Tech Stack
+# 🛠️ Tech Stack
 
 Frontend:
 
@@ -37,7 +37,7 @@ Express.js (REST API)
 
 CORS (Middleware)
 
-📦 Installation & Setup Guide
+# 📦 Installation & Setup Guide
 
 This project uses a Monorepo structure, meaning both the Frontend and Backend are in this single repository. You will need to run two terminals simultaneously.
 
@@ -68,7 +68,7 @@ cd ../frontend
 npm install
 
 
-🏃‍♂️ How to Run
+# 🏃‍♂️ How to Run
 
 To run the full application, you need two separate terminals open.
 
@@ -90,7 +90,7 @@ You should see: ➜ Local: http://localhost:5173
 
 Open your browser and go to: http://localhost:5173
 
-🔑 Demo Credentials
+# 🔑 Demo Credentials
 
 To access the dashboard, use the following demo account:
 
@@ -98,7 +98,7 @@ Email: admin@logidash.com
 
 Password: admin123
 
-🔮 Future Roadmap
+# 🔮 Future Roadmap
 
 [ ] Integration with MongoDB for persistent storage.
 
